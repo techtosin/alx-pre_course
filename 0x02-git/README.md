@@ -1,3 +1,1 @@
-My second project ni 
-
-
+This is a README.md file for 0x02-git. Take note.
